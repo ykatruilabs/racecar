@@ -1,0 +1,20 @@
+{
+  "type": "INSERT",
+  "table": "user_frame_data",
+  "record": {
+    "id": 18,
+    "frame_user_id": 396200,
+    "frame_user_name": "junyaoc.eth",
+    "frame_id": "lambo",
+    "results": {"event":"submit","option":"yes"},
+    "created_at": "2024-04-12 05:11:24.776089+00",
+    "frame_user_address": "0xcafe1246df2b91336a87b655247bd91086632518",
+    "url": "https://bdd3-203-116-73-130.ngrok-free.app/api",
+    "message_hash": "0x2f800e4b622763b2464ffb494b3d1f7d9efade85",
+    "cast_id": "{\"fid\":396200,\"hash\":\"0x0000000000000000000000000000000000000001\"}",
+    "frame_user_display_name": "JunyaoC",
+    "frame_profile_picture": "https://i.imgur.com/T8Ys3jJ.jpg"
+  },
+  "schema": "public",
+  "old_record": null
+}
